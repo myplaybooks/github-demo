@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 eee
 aaaa
 kkkk
 iii
-=======
-aaa
->>>>>>> 1d9686b4a1c435055618d7d0580a2f20c8cd0366
